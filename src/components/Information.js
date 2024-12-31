@@ -4,15 +4,15 @@ function Information({}) {
   return (
     <div className="bg-neutral-900 w-full px-5 pt-4 pb-5 flex flex-col gap-4 rounded-md text-neutral-400 font-light">
       <h1 className="text-3xl sm:text-4xl font-medium text-neutral-100">
-        Polyrhythmic Rings
+        Ripple
       </h1>
       <p>
         Built by{" "}
         <Link
-          href={"https://www.abjt.dev/"}
+          href={"https://www.vishalgautam.us/"}
           className="underline underline-offset-4 hover:text-neutral-200 transition-colors duration-150 ease-in-out"
         >
-          ABJT
+          Vishal
         </Link>
         , this application is made using Next.js, SVG Filters, SVG Animations,
         Framer Motion, and Radix UI. Project inspired by{" "}
@@ -25,7 +25,7 @@ function Information({}) {
         </Link>{" "}
         on their YouTube channel. You can read more about it{" "}
         <Link
-          href="https://www.abjt.dev/lab/polyrhythmic-rings"
+          href="https://www.vishalgautam.us/projects/ripple"
           className="underline underline-offset-4 hover:text-neutral-200 transition-colors duration-150 ease-in-out"
         >
           here
@@ -33,7 +33,7 @@ function Information({}) {
         on my website.
       </p>
       <Link
-        href={"https://github.com/abjt14/polyrhythmic-rings"}
+        href={"https://www.vishalgautam.us/projects/ripple"}
         target="_blank"
         className="w-fit self-end px-3 py-1 rounded-full bg-neutral-950 border border-neutral-700 hover:text-neutral-200 transition-colors duration-150 ease-in-out"
       >
