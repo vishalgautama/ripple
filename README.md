@@ -1,10 +1,8 @@
-# Polyrhythmic Rings
-
-<img  src="https://raw.githubusercontent.com/abjt14/polyrhythmic-rings/main/preview_720x450.gif"  width=100%  height=100%>
+# Ripple
 
 Relaxing tunes and visuals to help you focus, meditate, or sleep. Project inspired by [Hyperplexed's video](https://www.youtube.com/watch?v=Kt3DavtVGVE) on their YouTube channel.
 
-You can read more about the project [here](https://www.abjt.dev/lab/polyrhythmic-rings) on my website.
+You can read more about the project [here](https://www.vishalgautam.us/projects/ripple) on my website.
 
 ## Built Using
 
@@ -18,8 +16,8 @@ You can read more about the project [here](https://www.abjt.dev/lab/polyrhythmic
 > Note: You need to have Node.js and npm installed on your machine before following these steps.
 
 ```
-git clone https://github.com/abjt14/polyrhythmic-rings.git
-cd polyrhythmic-rings
+git clone https://github.com/vishalgautama/ripple.git
+cd ripple
 npm install
 npm run dev
 ```
